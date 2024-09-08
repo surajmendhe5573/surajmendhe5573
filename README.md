@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajmendhe5573&label=Profile%20views&color=0e75b6&style=flat" alt="surajmendhe5573" /> </p>
 
-<p align="left"> <a href="https://twitter.com/surajmendhe" target="blank"><img src="https://img.shields.io/twitter/follow/surajmendhe?logo=twitter&style=for-the-badge" alt="surajmendhe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/surajmendh12988" target="blank"><img src="https://img.shields.io/twitter/follow/surajmendh12988?logo=twitter&style=for-the-badge" alt="surajmendh12988" /></a> </p>
 
 - 🔭 I’m currently working on **Node.js, Express.js**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/surajmendhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajmendhe" height="30" width="40" /></a>
+<a href="https://twitter.com/surajmendh12988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajmendh12988" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-mendhe-569879233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-mendhe-569879233/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100069920124104&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069920124104&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/suraj_mendhe_?igsh=oxruymvtdjznynp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suraj_mendhe_?igsh=oxruymvtdjznynp2" height="30" width="40" /></a>
