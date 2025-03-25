@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajmendhe5573](https://github.com/surajmendhe5573)
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js...**
+- 💬 Ask me about **Node.js, Express.js, SQL...**
 
 - 📫 How to reach me **surajmendhe470@gmail.com**
 
