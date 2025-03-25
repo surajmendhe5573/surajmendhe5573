@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.js, Express.js**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Live Projects, Industries Projects...**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajmendhe5573](https://github.com/surajmendhe5573)
 
-- 💬 Ask me about **JavaScript, Node.js, DSA...**
+- 💬 Ask me about **JavaScript, Node.js, Express.js...**
 
 - 📫 How to reach me **surajmendhe470@gmail.com**
 
