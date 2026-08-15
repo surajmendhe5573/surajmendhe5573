@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/surajmendh12988" target="blank"><img src="https://img.shields.io/twitter/follow/surajmendh12988?logo=twitter&style=for-the-badge" alt="surajmendh12988" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js, Express.js**
+- 🔭 I’m currently working on **Node.js, TypeScript, PostgreSQL, AWS**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Live Projects, Industries Projects...**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajmendhe5573](https://github.com/surajmendhe5573)
 
-- 💬 Ask me about **Node.js, Express.js, SQL ...**
+- 💬 Ask me about **Node.js, TypeScript, System Design ...**
 
 - 📫 How to reach me **surajmendhe470@gmail.com**
 
