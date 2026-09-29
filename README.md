@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/surajmendh12988" target="blank"><img src="https://img.shields.io/twitter/follow/surajmendh12988?logo=twitter&style=for-the-badge" alt="surajmendh12988" /></a> </p>
 
-- 🔭 I’m currently working on **Node.js, TypeScript, PostgreSQL, AWS**
+- 🔭 I’m currently working on **Backend Development, System Design, and scalable APIs using Node.js, TypeScript, PostgreSQL, and AWS**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **RAG, LangChain, and AI Agents**
 
-- 👯 I’m looking to collaborate on **Live Projects, Industries Projects...**
-
-- 🤝 I’m looking for help with **Backend**
+- 👯 I’m looking to collaborate on **Backend and real-world industry projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/surajmendhe5573](https://github.com/surajmendhe5573)
 
-- 💬 Ask me about **Node.js, TypeScript, System Design ...**
+- 💬 Ask me about **Node.js, TypeScript, REST APIs, PostgreSQL, AWS, and Backend Development**
 
 - 📫 How to reach me **surajmendhe470@gmail.com**
 
